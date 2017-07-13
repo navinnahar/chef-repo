@@ -1,0 +1,54 @@
+{
+  "create": {
+    "actors": [
+      "mychefnode",
+      "navinnahar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "read": {
+    "actors": [
+      "mychefnode",
+      "navinnahar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "mychefnode",
+      "navinnahar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "mychefnode",
+      "navinnahar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "mychefnode",
+      "navinnahar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}

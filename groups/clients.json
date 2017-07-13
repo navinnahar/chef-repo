@@ -1,0 +1,8 @@
+{
+  "name": "clients",
+  "clients": [
+    "chefnode1",
+    "itc_training-validator",
+    "mychefnode"
+  ]
+}
